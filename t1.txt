@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B6BD-EA8C
+
+ Directory of C:\Users\windows\Desktop\ProjectGit
+
+19-08-2017  22:16    <DIR>          .
+19-08-2017  22:16    <DIR>          ..
+19-08-2017  22:16                 0 t1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  51,215,192,064 bytes free
